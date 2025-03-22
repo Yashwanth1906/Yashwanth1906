@@ -73,11 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth1906&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yashwanth1906&theme=github-dark" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 🌟 **If you like my work, consider giving a star! ⭐**
