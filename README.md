@@ -2,7 +2,7 @@
 <h3 align="center">Open Source Contributor | Developer</h3>
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[STACKD](https://github.com/Yashwanth1906/STACKD)**
+- 🔭 I’m currently working on **[MAVEN](https://github.com/Yashwanth1906/MAVEN)**
 - 🌱 I’m currently learning **GO**
 - 📫 Reach me at **yashwanthsakthivel01@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1WsJpT2HqWRQqcl0iasExCqmlSCPAlCGM/view?usp=sharing)
