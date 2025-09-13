@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 📫 Reach me at **yashwanthsakthivel01@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1WsJpT2HqWRQqcl0iasExCqmlSCPAlCGM/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1RSMgmsQdNouN9Y0Vb1rKKLYmnvpj5Quf/view?usp=sharing)
 
 ---
 
