@@ -6,24 +6,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwanth1906&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanth1906&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-### 📌 Contribution Grid:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth1906&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 🌍 Connect With Me:
 <p align="center">
   <a href="https://twitter.com/yashwanth1906" target="blank">
