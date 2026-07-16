@@ -1,4 +1,4 @@
-<h1 align="center">Yoo👋, I'm Yashwanth</h1>
+<h1 align="center">Hi👋, I'm Yashwanth</h1>
 
 ### 🚀 About Me
 - 📫 Reach me at **yashwanthsakthivel01@gmail.com**
